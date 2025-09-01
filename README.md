@@ -1,1 +1,2 @@
-# recipesBasic html project
+# recipes
+Basic html project
